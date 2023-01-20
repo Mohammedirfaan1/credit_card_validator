@@ -9,7 +9,7 @@ last number = 7
 
 multiple by 1 in odd position and 2 in even position 
 
-sum=(2*1)+(2*2)+(2*1)+(1*2)+(0*1)+(0*2)+(8*1)+(2*2)+(1*1)+(5*2)+(0*1)+(9*2)+(3*1)+(6*2)+(8*1)
+sum= (2 * 1)+(2*2)+(2*1)+(1*2)+(0*1)+(0*2)+(8*1)+(2*2)+(1*1)+(5*2)+(0*1)+(9*2)+(3*1)+(6*2)+(8*1)
 
 if mulitplied number exceeds 9 then substract the number with 9
 
